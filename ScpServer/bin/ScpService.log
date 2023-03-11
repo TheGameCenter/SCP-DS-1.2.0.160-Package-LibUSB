@@ -1,0 +1,7 @@
+2023-03-11 08:38:46.185 ++ C:\Users\jayde\Downloads\SCP-DS-Driver-Package-1.2.0.160\ScpServer\bin\ScpService.exe 1.2.0.160
+2023-03-11 08:38:46.193 ++ C:\Users\jayde\Downloads\SCP-DS-Driver-Package-1.2.0.160\ScpServer\bin\ScpControl.dll 1.2.0.160
+2023-03-11 08:38:47.143 ++ Microsoft Windows 10 Pro (6.2.9200.0 AMD64)
+2023-03-11 08:38:47.143 -- Bus Open   : Offset 0
+2023-03-11 08:38:47.153 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2023-03-11 08:38:47.252 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2023-03-11 08:38:47.304 -- Controller : UDP_Worker_Thread Starting

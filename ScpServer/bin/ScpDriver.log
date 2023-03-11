@@ -1,0 +1,35 @@
+SCP Driver Installer 1.2.0.160 [3/10/2023 8:26:21 PM]
+
+Detected - Microsoft Windows 10 Pro (6.2.9200.0 AMD64)
+Selected DEFAULT configuration.
+
+SUCCESS - Virtual Bus Created
+INFO    - ENTER:  DriverPackageInstallW
+INFO    - Looking for Model Section [SCProductions.NTamd64]...
+INFO    - Installing INF file 'C:\Users\jayde\Downloads\SCP-DS-Driver-Package-1.2.0.160\ScpServer\bin\System\ScpVBus.inf' (Plug and Play).
+INFO    - Looking for Model Section [SCProductions.NTamd64]...
+INFO    - Installing devices with Id "root\ScpVBus" using INF "C:\windows\System32\DriverStore\FileRepository\scpvbus.inf_amd64_21ca245c0e23d7a5\ScpVBus.inf".
+INFO    - ENTER UpdateDriverForPlugAndPlayDevices...
+SUCCESS - RETURN UpdateDriverForPlugAndPlayDevices.
+INFO    - Installation was successful.
+SUCCESS - Install completed
+INFO    - RETURN: DriverPackageInstallW  (0x0)
+INFO    - ENTER:  DriverPackageInstallW
+INFO    - Looking for Model Section [SCProductions.NTamd64]...
+INFO    - No matching devices found in INF "C:\Users\jayde\Downloads\SCP-DS-Driver-Package-1.2.0.160\ScpServer\bin\System\BthWinUsb.inf" on the Machine.
+INFO    - RETURN: DriverPackageInstallW  (0xE000020B)
+INFO    - ENTER:  DriverPackageInstallW
+INFO    - Looking for Model Section [SCProductions.NTamd64]...
+INFO    - No matching devices found in INF "C:\Users\jayde\Downloads\SCP-DS-Driver-Package-1.2.0.160\ScpServer\bin\System\Ds3WinUsb.inf" on the Machine.
+INFO    - RETURN: DriverPackageInstallW  (0xE000020B)
+INFO    - SCP DS3 Service Started.
+
+Install Succeeded.
+
+-- Install Summary --
+SCP DS3 Service
+Bus Device
+Bus Driver
+
+
+
